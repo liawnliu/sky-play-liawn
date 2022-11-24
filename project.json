@@ -1,0 +1,43 @@
+{
+  "abis": null,
+  "assets": [],
+  "build": { "build_number": null, "build_time": null, "release": null },
+  "encryptLevel": 0,
+  "useFeatures": [],
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": false,
+    "splashText": "Powered by Auto.js Pro",
+    "stableMode": false,
+    "splashIcon": null,
+    "splashLayoutXml": null
+  },
+  "main": "./bin/main.js",
+  "name": "sky-play-liawn",
+  "optimization": {
+    "removeOpenCv": false,
+    "unusedResources": false,
+    "removeAccessibilityService": null,
+    "obfuscateComponents": false
+  },
+  "packageName": "org.liwn.sky_play_liawn",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "icon": null,
+  "publish": {
+    "category": "其他",
+    "details": "光遇自动弹琴，支持sky studio的数据",
+    "maxAutoJsVersion": 0,
+    "maxProVersion": 0,
+    "minAutoJsVersion": 0,
+    "minProVersion": 0,
+    "minSdkVersion": 0,
+    "permissions": [],
+    "summary": "",
+    "tags": null
+  },
+  "signingConfig": null,
+  "androidResources": null,
+  "permissionConfig": null
+}
